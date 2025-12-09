@@ -13,7 +13,7 @@
 - Реализована композиция (Университет -> Факультеты -> Институты).
 - Применен ассоциативный класс `Participation` для связи сотрудников с проектами.
 
-![Class Diagram](diagr%20png/diagr%20klassov.PNG)
+![Class Diagram](diagr%20png/диагр%20классов.PNG)
 
 ---
 
@@ -32,7 +32,7 @@
 Показывает жизненный цикл научного сотрудника (`ResearchStaff`):
 - **Создан** → **Назначен на кафедру** → **Работает над проектами** → **Уволен (Неактивен)**.
 
-![State Machine Diagram](diagr%20png/diagr%20socct.PNG)
+![State Machine Diagram](diagr%20png/диагр%20сосст.PNG)
 
 ---
 
