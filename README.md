@@ -42,3 +42,8 @@
 
 ![Console Output](diagr%20png/Result.PNG)
 
+---
+
+## 6. Диаграмма классов реверс
+
+![Console Output](diagr%20png/реверс.PNG)
